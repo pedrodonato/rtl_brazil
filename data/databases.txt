@@ -1,0 +1,7 @@
+The data was downloaded from the following links:
+
+https://sistemas.anac.gov.br/sas/registros/Diario/diario.csv
+https://www.anac.gov.br/dadosabertos/areas-de-atuacao/aerodromos/aerodromos-cadastro-de-aerodromos-privados-csv-1
+https://www.anac.gov.br/dadosabertos/areas-de-atuacao/aerodromos/aerodromos-cadastro-de-aerodromos-publicos-csv
+
+This is not automated because of Certificate Issues... TBD later
